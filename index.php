@@ -3,11 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Document</title>
+    <title>Shannon</title>
     <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.css" type="text/css" />
+    <style type="text/css">
+        body{
+            background-color: #ffc0cb;            
+        }
+    </style>
 </head>
 <body>
     <div class="container">
+        <img src="shannon.jpg" class="img-responsive" />
         <form class="" method="post" action="https://docs.google.com/forms/d/e/1FAIpQLSdr4bJ0DKFzbxaREOdHUhbnJ2P80zRjZL5DbqbErqwtph-m2w/formResponse">
             <div class="form-group">
                 <label>
